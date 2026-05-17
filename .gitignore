@@ -7,9 +7,6 @@ target/
 .idea/
 *.iml
 
-# Environment
-.env
-
 # Logs
 *.log
 
